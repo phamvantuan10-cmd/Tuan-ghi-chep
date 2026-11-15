@@ -1,5 +1,0 @@
-app/build.gradle.kts
-app/src/main/AndroidManifest.xml
-app/src/main/java/com/example/voicesheet/MainActivity.kt
-gradle/wrapper/gradle-wrapper.properties
-.github/workflows/build.yml
